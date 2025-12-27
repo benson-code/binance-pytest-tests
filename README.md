@@ -1,6 +1,20 @@
 # Binance Testnet API 自動化測試框架 (Pytest)
 
-使用 Pytest 建立的幣安測試網 API 自動化測試框架，適用於 QA Engineer 面試準備與實際測試工作。
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-Testing-green?logo=pytest&logoColor=white)
+![GitHub Stars](https://img.shields.io/github/stars/benson-code/binance-pytest-tests?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/benson-code/binance-pytest-tests?style=social)
+
+> 使用 Pytest 建立的幣安測試網 API 自動化測試框架，包含 **35+ 測試案例**，涵蓋功能性、API、安全性及性能測試。適用於 QA Engineer 面試準備與實際測試工作。
+
+## 專案特色
+
+- 完整的 API 測試覆蓋（功能性、安全性、性能測試）
+- 基於 Pytest 的專業測試框架
+- 自動化測試報告生成（HTML + 覆蓋率）
+- 完整的文檔和快速開始指南
+- 支援並行測試執行
+- 真實的 Binance Testnet API 集成
 
 ## 專案結構
 
