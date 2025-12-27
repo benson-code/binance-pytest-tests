@@ -1,0 +1,31 @@
+# Binance Testnet API 測試依賴套件
+
+# 核心依賴
+pytest==7.4.3
+pytest-html==4.1.1
+pytest-xdist==3.5.0
+pytest-timeout==2.2.0
+pytest-asyncio==0.23.2
+
+# HTTP 請求
+requests==2.31.0
+urllib3==2.1.0
+
+# WebSocket
+websockets==12.0
+
+# 加密和簽名
+cryptography==41.0.7
+
+# 數據處理
+python-dotenv==1.0.0
+
+# 報告和日誌
+allure-pytest==2.13.2
+pytest-json-report==1.5.0
+
+# 性能測試
+pytest-benchmark==4.0.0
+
+# 代碼覆蓋率
+pytest-cov==4.1.0
